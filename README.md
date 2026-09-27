@@ -23,7 +23,11 @@ Here's a bit more about me:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     6 hrs 19 mins         ██████████████░░░░░░░░░░░   55.96 %
+Python       1 hr 41 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+Text         1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Bash         1 hr 2 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Other        43 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->
