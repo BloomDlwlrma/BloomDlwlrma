@@ -23,11 +23,11 @@ Here's a bit more about me:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     23 hrs 8 mins         █████████████▒░░░░░░░░░░░   53.07 %
-Bash         7 hrs 12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Python       5 hrs 5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Other        4 hrs 40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Text         1 hr 25 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Markdown     23 hrs 24 mins        ████████████▓░░░░░░░░░░░░   50.42 %
+Bash         8 hrs 14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+Other        6 hrs 15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Python       4 hrs 56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+YAML         1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
