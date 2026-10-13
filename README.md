@@ -23,11 +23,11 @@ Here's a bit more about me:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       14 hrs 18 mins        ███████████▓░░░░░░░░░░░░░   46.97 %
-Other          7 hrs 50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
-Python         4 hrs 42 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Bash           1 hr 51 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-TeX            1 hr 15 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Markdown       10 hrs 54 mins        ███████████░░░░░░░░░░░░░░   43.48 %
+Other          7 hrs 11 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 %
+Python         3 hrs 59 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+Bash           1 hr 49 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+TeX            44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
